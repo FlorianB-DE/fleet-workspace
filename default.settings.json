@@ -1,0 +1,9 @@
+{
+    "terminal.profiles": [
+        {
+            "program": "/bin/bash",
+            "args": ["-l"], // optional
+            "name": "bash" // optional
+        }
+    ]
+}
